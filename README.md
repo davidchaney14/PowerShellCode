@@ -1,2 +1,2 @@
-# Python
-This Repo contains Python work for the module IaC - Weeks 2-5
+# PowerShell Code
+This Repo contains PowerShell work for the module IaC - Weeks 9-12
